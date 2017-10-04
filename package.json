@@ -1,6 +1,6 @@
 {
   "name": "@markettrack/class-validator",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Class-based validation with Typescript / ES6 / ES5 using decorators or validation schemas. Supports both node.js and browser",
   "license": "MIT",
   "readmeFilename": "README.md",
